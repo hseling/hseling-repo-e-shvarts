@@ -1,0 +1,2 @@
+recursive-include hseling_api_e_shvarts/templates *
+recursive-include hseling_api_e_shvarts/static *
